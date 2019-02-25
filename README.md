@@ -1,2 +1,2 @@
 # BrightBot
-## CSC 299 Raspberry Pi Project
+###### CSC 299 Raspberry Pi Project
